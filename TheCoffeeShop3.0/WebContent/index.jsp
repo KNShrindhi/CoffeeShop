@@ -34,7 +34,7 @@
 				<div id="featuredProductInfo">
 					<div id="productInfo">
 						<h2>Cappuccino Regular</h2>
-						<p class="price">$3.45</p>
+						<p class="price">$4.00</p>
 						<p class="description">Cappuccino</p>
 					</div>
 					<div id="callToAction">
