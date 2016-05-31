@@ -15,7 +15,7 @@
 		<header>
 			<p class="site-title">
 				<a href="">Coffee Shop</a>
-				Nagendra CoffeShop
+				Srinidhi CoffeShop
 			</p>
 			<nav>
 				<ul>
